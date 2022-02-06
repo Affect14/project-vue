@@ -28,7 +28,7 @@ export default {
     align-content: center;
     justify-content: space-between;
     padding: 10px;
-    margin:10px 0 10px 8px;
+    margin:10px 10px 10px 8px;
     border-top: 1px solid #ffffff;
     border-bottom: 1px solid #ffffff;
     background-color: #0c314d;
