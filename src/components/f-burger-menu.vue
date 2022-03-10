@@ -86,14 +86,15 @@ ul{
     width: 100%;
     height: 92px;
     z-index: 100;
+    min-width: 500px;
 }
 
 li{
     align-items: center;
-    display: flex;
+    display:flex;
+    justify-content: center;
     font-size: 20px;
     height: 45px;
-    justify-content: center;
     list-style-type: none;
 }
 
