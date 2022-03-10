@@ -1,3 +1,21 @@
+Проект создан с использованием api - https://www.football-data.org/
+Приложение имеет доступ только к некоторым лигам, это связано с использованием бесплатной подписки аккаунта на footbal-data. Доступные лиги: 
+ | WC | FIFA World Cup,
+ | CL | UEFA Champions League,
+ | BL1 | Bundesliga,
+ | DED | Eredivisie,
+ | BSA | Campeonato Brasileiro Série A,
+ | PD | Primera Division,
+ | FL1 | Ligue 1,
+ | ELC | Championship,
+ | PPL | Primeira Liga,
+ | EC | European Championship,
+ | SA | Serie A,
+ | PL | Premier League,
+ | CLI | Copa Libertadores
+
+Также ограничение распространяется на некоторые футбольные клубы.
+
 # project-vue
 
 ## Project setup
